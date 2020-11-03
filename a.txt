@@ -1,14 +1,6 @@
 0
-<<<<<<< HEAD
-<<<<<<< HEAD
 1
 2
-=======
-1
-2
->>>>>>> feature-1
-=======
-1
 
 Gogo conflict! -innie
->>>>>>> 317c3952fb94e6ebf4cc676a1b88f8c15bc546fd
+Pull request ~~~
